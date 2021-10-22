@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    font-family: 'Source Sans Pro', Helvetica, sans-serif;
+}
+
+header {
+    background-color: #7FDBFF;
+    padding: 24px;
+}
+
+header p {
+    font-size: 160%;
+    font-weight: bold;
+    margin: 0;
+}
+
+main {
+    padding: 24px;
+}
+
+main h1 {
+    margin-top: 0;
+}
